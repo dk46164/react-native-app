@@ -3,12 +3,12 @@
 ## Description
 
 It's an android app powered by in frontEnd React-native & for backend Serivces AWS serverless stack like
-*Lambda For runnig  back end jobs like login,session generation
-*Glue  JOb scheduling
-*Cognito --user session Management
-*DynamoDB  -NOSQL db 
-*SNS  --creating alerts  for varous usage
-*Api-gateway --gateway for communication between lambda and mobile
+* Lambda For runnig  back end jobs like login,session generation
+* Glue  JOb scheduling
+* Cognito --user session Management
+* DynamoDB  -NOSQL db 
+* SNS  --creating alerts  for varous usage
+* Api-gateway --gateway for communication between lambda and mobile
 
 
 ## Getting Started
